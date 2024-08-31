@@ -4,12 +4,6 @@
   
   <img src="https://www.pngitem.com/pimgs/m/297-2978988_blogging-and-content-the-transparent-blog-png-png.png" height="100" alt="avatar" />
   
-  [Overview](#🎯-overview) •
-  [Features](#✨-features) •
-  [Getting Started](#🚀-getting-started) •
-  [Usage](#📘-usage) •
-  [API](#📚-api)
-  
 </div>
   
 ---
