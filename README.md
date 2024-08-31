@@ -1,6 +1,7 @@
 <div align="center">
     
   # Blogging Platform API
+  ## [project link](https://roadmap.sh/projects/blogging-platform-api)
   
   <img src="https://www.pngitem.com/pimgs/m/297-2978988_blogging-and-content-the-transparent-blog-png-png.png" height="100" alt="avatar" />
   
@@ -55,4 +56,3 @@ Ensure you have the following installed:
    ```bash
    node index.js
    ```
-[project link](https://roadmap.sh/projects/blogging-platform-api)
